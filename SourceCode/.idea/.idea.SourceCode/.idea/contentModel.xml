@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nesto\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nesto\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SourceCode.-705744530.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nesto\RiderProjects\NENA_00199019_2EP\SourceCode" t="IncludeRecursive">
+      <e p="Address.cs" t="Include" />
+      <e p="AddressDAO.cs" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Business.cs" t="Include" />
+      <e p="BusinessDAO.cs" t="Include" />
+      <e p="ConnectionDB.cs" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="frmAdmin.cs" t="Include" />
+      <e p="frmAdmin.Designer.cs" t="Include" />
+      <e p="frmAdmin.resx" t="Include" />
+      <e p="FrmUpdatePassword.cs" t="Include" />
+      <e p="FrmUpdatePassword.Designer.cs" t="Include" />
+      <e p="FrmUpdatePassword.resx" t="Include" />
+      <e p="FrmUser.cs" t="Include" />
+      <e p="FrmUser.Designer.cs" t="Include" />
+      <e p="FrmUser.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Order.cs" t="Include" />
+      <e p="OrderDAO.cs" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Product.cs" t="Include" />
+      <e p="ProductDAO.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="icon.png" t="Include" />
+      </e>
+      <e p="SourceCode.csproj" t="IncludeRecursive" />
+      <e p="SourceCode.sln" t="IncludeFlat" />
+      <e p="User.cs" t="Include" />
+      <e p="UserDAO.cs" t="Include" />
+    </e>
+  </component>
+</project>
